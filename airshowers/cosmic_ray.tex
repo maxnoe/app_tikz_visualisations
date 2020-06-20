@@ -13,11 +13,11 @@
 \begin{tikzpicture}[scale=2.2]
   \begin{feynman}
     \tikzfeynmanset{
-      every photon={gamma, text=darkgray},
+      every photon={gamma, text=black},
       every scalar={draw=cherenkov}
       plain/.style={draw=darkgray},
-      fermion/.style={draw=cherenkov, text=darkgray},
-      anti fermion/.style={draw=cherenkov, text=darkgray},
+      fermion/.style={draw=cherenkov},
+      anti fermion/.style={draw=cherenkov},
     }
 
     \vertex (primary) at (0, 0.12) {\primary{} $(\symup{p}, \symup{α}, \mathup{Fe}, ...)$};
