@@ -4,3 +4,16 @@ All graphics / code under
 [![CC-BY-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/deed)
 
 Some tikz graphics concerning astroparticle physics I made over the years
+
+See the [release page](https://github.com/MaxNoe/app_tikz_visualisations/releases) for the images.
+
+
+## Air Shower Schematics
+
+Source in [airshowers](airshowers).
+
+
+<img alt="Gamma Ray" src="https://github.com/MaxNoe/app_tikz_visualisations/releases/download/airshowers/gamma.svg" style="width: 45%;"/>
+<img alt="Cosmic Ray" src="https://github.com/MaxNoe/app_tikz_visualisations/releases/download/airshowers/cosmic_ray.svg" style="width: 45%;"/>
+
+
