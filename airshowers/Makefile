@@ -16,7 +16,7 @@ build/%.pdf: FORCE
 	latexmk $(TEXOPTIONS) $*.tex
 
 build/%.png: build/%.pdf
-	inkscape $< -o $@
+	inkscape $< --export-dpi=600 -o $@
 
 build/%.svg: build/%.pdf
 	inkscape $< --export-plain-svg --export-text-to-path -o $@
