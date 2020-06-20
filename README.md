@@ -13,7 +13,7 @@ See the [release page](https://github.com/MaxNoe/app_tikz_visualisations/release
 Source in [airshowers](airshowers).
 
 
-<img alt="Gamma Ray" src="https://github.com/MaxNoe/app_tikz_visualisations/releases/download/airshowers/gamma.svg" style="width: 45%;"/>
-<img alt="Cosmic Ray" src="https://github.com/MaxNoe/app_tikz_visualisations/releases/download/airshowers/cosmic_ray.svg" style="width: 45%;"/>
+<img alt="Gamma Ray" src="https://raw.githubusercontent.com/MaxNoe/app_tikz_visualisations/master/airshowers/build/gamma.svg" style="width: 45%;"/>
+<img alt="Cosmic Ray" src="https://raw.githubusercontent.com/MaxNoe/app_tikz_visualisations/master/airshowers/build/cosmic_ray.svg" style="width: 45%;"/>
 
 
